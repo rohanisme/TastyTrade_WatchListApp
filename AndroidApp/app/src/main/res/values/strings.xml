@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WatchList</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_watchlist">Add Watchlist</string>
+    <string name="search_stock">Search Stock</string>
+    <string name="watchlist">Watchlist</string>
+    <string name="stock_history_graph">Stock History Graph</string>
+    <string name="watchlist_name">Watchlist Name</string>
+    <string name="delete_watchlist">Delete Watchlist</string>
+    <string name="stock_symbol">STOCK SYMBOL</string>
+    <string name="ask_price">ASK PRICE</string>
+    <string name="bid_price">BID PRICE</string>
+    <string name="last_price">LAST PRICE</string>
+</resources>
